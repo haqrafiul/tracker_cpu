@@ -1,2 +1,3 @@
 # tracker_cpu
-Daily AMD CPU prices in BDT from Startech, and Ryans computer Bangladesh
+This program is used to track daily AMD cpu prices from startech bd and Ryans Computer and write it to an existing excel spreadsheet
+Beneficial for Bangladesh
